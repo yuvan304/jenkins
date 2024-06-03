@@ -15,3 +15,7 @@ commamds:
 
  systemctl start jenkins.service
  systemctl status jenkins.service
+                                                   
+                                                                 (OR)
+                                         docker run -it --name cont1 -p 8080:8080 jenkins/jenkins:lts
+                                         // jenkins setup using this singke command    
