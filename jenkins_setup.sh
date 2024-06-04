@@ -10,7 +10,7 @@ commamds:
 
  yum install jenkins -y
  amazon-linux-extras install java-openjdk11 -y
- update-alternatives –config java
+ update-alternatives --config java
  //press 2 enter
 
  systemctl start jenkins.service
