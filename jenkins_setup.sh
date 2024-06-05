@@ -1,4 +1,4 @@
-How install jenkins with aws cloud using MobaXterm
+How to install jenkins with aws console management using MobaXterm
 
 commamds:
  sudo -i
